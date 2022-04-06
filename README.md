@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-for current directory
+my redme
